@@ -1,0 +1,16 @@
+C:\Users\Estudiante\Desktop\Aire Acondicionado\bin\Debug\net8.0-windows\Aire Acondicionado.exe
+C:\Users\Estudiante\Desktop\Aire Acondicionado\bin\Debug\net8.0-windows\Aire Acondicionado.deps.json
+C:\Users\Estudiante\Desktop\Aire Acondicionado\bin\Debug\net8.0-windows\Aire Acondicionado.runtimeconfig.json
+C:\Users\Estudiante\Desktop\Aire Acondicionado\bin\Debug\net8.0-windows\Aire Acondicionado.dll
+C:\Users\Estudiante\Desktop\Aire Acondicionado\bin\Debug\net8.0-windows\Aire Acondicionado.pdb
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire_Acondicionado.Form1.resources
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.dll
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\refint\Aire Acondicionado.dll
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.pdb
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\Aire Acondicionado.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\Aire Acondicionado\obj\Debug\net8.0-windows\ref\Aire Acondicionado.dll

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCAD5A-B278-448F-B0A0-04BA1F0AC3F5}|Aire Acondicionado.vbproj|c:\\users\\estudiante\\desktop\\aire acondicionado\\aire.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F0CCAD5A-B278-448F-B0A0-04BA1F0AC3F5}|Aire Acondicionado.vbproj|solutionrelative:aire.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCAD5A-B278-448F-B0A0-04BA1F0AC3F5}|Aire Acondicionado.vbproj|c:\\users\\estudiante\\desktop\\aire acondicionado\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F0CCAD5A-B278-448F-B0A0-04BA1F0AC3F5}|Aire Acondicionado.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CCAD5A-B278-448F-B0A0-04BA1F0AC3F5}|Aire Acondicionado.vbproj|c:\\users\\estudiante\\desktop\\aire acondicionado\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F0CCAD5A-B278-448F-B0A0-04BA1F0AC3F5}|Aire Acondicionado.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aire.vb",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\Aire.vb",
+              "RelativeDocumentMoniker": "Aire.vb",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\Aire.vb",
+              "RelativeToolTip": "Aire.vb",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAUwM4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-12T23:51:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-14T22:05:33.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Aire Acondicionado\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-12T23:50:23.471Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
